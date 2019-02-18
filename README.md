@@ -1,1 +1,1 @@
-# wc-base-prairieforest TEST
+# Wallowa County, Oregon Basemap with Landcover
