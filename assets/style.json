@@ -96,7 +96,6 @@
         {
             "id": "landcover_new",
             "type": "fill",
-            "metadata": {},
             "source": "composite",
             "source-layer": "landcover",
             "maxzoom": 12,
@@ -132,7 +131,6 @@
         {
             "id": "hillshade",
             "type": "fill",
-            "metadata": {},
             "source": "composite",
             "source-layer": "hillshade",
             "maxzoom": 16,
@@ -4549,7 +4547,6 @@
         {
             "id": "orcnty24-wgs84l-simp-0b0703",
             "type": "line",
-            "metadata": {},
             "source": "composite",
             "source-layer": "orcnty24_wgs84L_simp-0b0703",
             "layout": {},
@@ -5905,7 +5902,7 @@
     ],
     "created": "2019-02-09T17:47:55.494Z",
     "id": "cjrxrw5qg2g881fporbjmuicg",
-    "modified": "2019-02-09T23:41:14.292Z",
+    "modified": "2019-02-20T17:17:16.713Z",
     "owner": "hogrefek",
     "visibility": "private",
     "draft": false
